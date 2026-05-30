@@ -1,0 +1,10 @@
+{
+  "name": "happyhorse",
+  "version": "0.2.5",
+  "description": "RunAPI HappyHorse skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
+  "skills": [
+    {
+      "path": "skills/happyhorse/SKILL.md"
+    }
+  ]
+}
